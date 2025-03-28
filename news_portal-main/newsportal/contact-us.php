@@ -25,7 +25,7 @@ include('includes/config.php');
         body {
             margin: 0;
             padding: 0;
-            background-image: url('images/image.png'); /* Add your background image path */
+            background-image: url('images/background.jpg'); /* Add your background image path */
             background-size: cover;
             background-position: center;
             background-attachment: fixed;

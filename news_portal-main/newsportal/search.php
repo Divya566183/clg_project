@@ -25,7 +25,7 @@ include('includes/config.php');
     <style>
         /* 🌅 Background Image */
         body {
-            background: url('images/bg.jpg') no-repeat center center fixed;
+            background: url('images/background.jpg') no-repeat center center fixed;
             background-size: cover;
             margin: 0;
             padding: 0;

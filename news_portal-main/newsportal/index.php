@@ -24,7 +24,7 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background: url('images/bg.jpg') no-repeat center center fixed; /* Add your image path */
+    background: url('images/background.jpg') no-repeat center center fixed; /* Add your image path */
     background-size: cover;
     color:rgb(0, 0, 0);
 }

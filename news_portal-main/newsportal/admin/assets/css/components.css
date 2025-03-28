@@ -57,19 +57,19 @@ File: Components
 .tooltip .tooltip-inner {
   padding: 4px 10px;
   border-radius: 2px;
-  background-color: #313a46;
+  background-color: #7a00df;
 }
 .tooltip.left .tooltip-arrow {
-  border-left-color: #313a46;
+  border-left-color: #7a00df;
 }
 .tooltip.top .tooltip-arrow {
-  border-top-color: #313a46;
+  border-top-color: #7a00df;
 }
 .tooltip.bottom .tooltip-arrow {
-  border-bottom-color: #313a46;
+  border-bottom-color: #7a00df;
 }
 .tooltip.right .tooltip-arrow {
-  border-right-color: #313a46;
+  border-right-color: #7a00df;
 }
 /* Tooltpster */
 .tooltipster-sidetip .tooltipster-box {

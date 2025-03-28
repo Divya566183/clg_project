@@ -48,7 +48,7 @@ if (isset($_POST['login'])) {
             margin: 0;
             padding: 0;
             height: 100vh;
-            background: url('../images/bg.jpg') no-repeat center center fixed;
+            background: url('../images/background.jpg') no-repeat center center fixed;
             background-size: cover;
         }
 
