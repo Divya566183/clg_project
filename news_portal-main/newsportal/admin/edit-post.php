@@ -175,7 +175,7 @@ while($result=mysqli_fetch_array($ret))
     
 <div class="form-group m-b-20">
 <label for="exampleInputEmail1">Sub Category</label>
-<select class="form-control" name="subcategory" id="subcategory" required>
+<select class="form-control" name="subcategory" id="subcategory" >
 <option value="<?php echo htmlentities($row['subcatid']);?>"><?php echo htmlentities($row['subcategory']);?></option>
 </select> 
 </div>
